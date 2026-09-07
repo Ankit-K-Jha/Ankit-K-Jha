@@ -114,29 +114,10 @@ My current goal is to develop strong fundamentals in AI/ML, build meaningful pro
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-K-Jha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-K-Jha&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>---
-
 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ankit-K-Jha&theme=tokyonight&hide_border=true" />
-</p>---
-
-🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-K-Jha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>---
-
-📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-K-Jha&theme=tokyo-night&hide_border=true" />
 </p>---
 
 💡 What I'm Working On
@@ -159,7 +140,6 @@ My current goal is to develop strong fundamentals in AI/ML, build meaningful pro
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></p>---
 
-✍️ Random Dev Quote
 
 ## 💭 Developer Mindset
 
