@@ -21,28 +21,28 @@ I enjoy understanding concepts from the fundamentals and turning what I learn in
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-🤖 AI / ML / Deep Learning
+### 🤖 AI / ML / Deep Learning
 
-"TensorFlow" (https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-"Keras" (https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-Areas I'm exploring:
+**Areas I'm exploring:**
 
-"Machine Learning" • "Neural Networks" • "Deep Learning" • "CNN"  • "LLMs"
+Machine Learning • Neural Networks • Deep Learning • CNN • Computer Vision • LLMs
 
-🧰 Tools & Platforms
+### 🧰 Tools & Platforms
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-"Google Colab" (https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
 
@@ -161,9 +161,9 @@ My current goal is to develop strong fundamentals in AI/ML, build meaningful pro
 
 ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>---
+## 💭 Developer Mindset
+
+> "Learn. Build. Break. Improve. Repeat."
 
 <p align="center">🌱 Learning today. Building tomorrow. 🚀
 
