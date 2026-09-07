@@ -1,47 +1,77 @@
 👋 Hi, I'm Ankit Kumar Jha
 
-💻 B.Tech CSE Student | AI/ML Enthusiast | Aspiring AI Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Deep+Learning+Explorer;LLM+Learner;Computer+Science+Student;Learning+by+Building" alt="Typing SVG" />
+</p><p align="center">
+  <a href="https://github.com/Ankit-K-Jha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ankit-kumar-ojha-04de13d12m">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kumarankit7471234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>---
 
-I'm a Computer Science & Engineering student passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models.
+🧑‍💻 whoami
 
-I enjoy understanding concepts from the fundamentals and turning what I learn into practical projects.
+ankit = {
+    "education": {
+        "degree": "B.Tech Computer Science & Engineering",
+        "university": "Central University of Jammu"
+    },
+
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Large Language Models",
+        "AI Research"
+    ],
+
+    "languages": [
+        "Python",
+        "Java"
+    ],
+
+    "ai_ml": [
+        "TensorFlow",
+        "Keras",
+        "Neural Networks",
+        "CNN",
+        "Computer Vision",
+        "LLMs"
+    ],
+
+    "tools": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Google Colab",
+        "Streamlit"
+    ],
+
+    "currently_learning": [
+        "Deep Learning",
+        "LLMs",
+        "Data Structures & Algorithms"
+    ]
+}
 
 ---
 
 💫 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🧠 Currently exploring Deep Learning & Large Language Models
-- 🐍 Working with Python for AI/ML projects
-- ☕ Learning and strengthening Java & problem-solving
+- 🎓 B.Tech Computer Science & Engineering student
+- 🤖 Passionate about AI, Machine Learning & Deep Learning
+- 🧠 Currently exploring Large Language Models
 - 🔬 Interested in AI/ML research and real-world applications
-- 🚀 Building projects to turn theory into practical skills
-- 🌱 Always learning something new
+- 🐍 Using Python to build AI/ML projects
+- ☕ Strengthening my Java & problem-solving skills
+- 🚀 I believe in learning concepts → building projects → improving continuously
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🤖 AI / ML / Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-**Areas I'm exploring:**
-
-Machine Learning • Neural Networks • Deep Learning • CNN • Computer Vision • LLMs
-
-### 🧰 Tools & Platforms
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+«I don't just want to use AI — I want to understand how it works.»
 
 ---
 
@@ -49,100 +79,167 @@ Machine Learning • Neural Networks • Deep Learning • CNN • Computer Visi
 
 🐱🐶 Cat vs Dog CNN Classifier
 
-A Deep Learning project that uses a Convolutional Neural Network (CNN) to classify images as cats or dogs.
+«Python · TensorFlow · Keras · CNN · Streamlit»
 
-🔧 Tech Used
-
-"Python" "TensorFlow" "Keras" "CNN" "Streamlit"
+A Deep Learning image classification project that uses a Convolutional Neural Network to classify images as cats or dogs.
 
 ✨ Highlights
 
-- Image classification using CNN
-- Image preprocessing and normalization
-- Data augmentation
-- Model training and validation
-- Performance evaluation
-- Streamlit interface for predictions
+- 🧠 CNN-based image classification
+- 🖼️ Image preprocessing & normalization
+- 🔄 Data augmentation
+- 📊 Training & validation
+- 📈 Model performance evaluation
+- 🌐 Streamlit-based prediction interface
 
-🔗 "View Project" (https://github.com/Ankit-K-Jha)
+Status: "Completed"
+
+🔗 Repository:
+"Cat_Dog_CNN" (https://github.com/Ankit-K-Jha)
 
 ---
 
-🤖 Large Language Model Research & Experimentation
+🤖 LLM Research & Experimentation
 
-Exploring and evaluating open-source Large Language Models to understand their reasoning and response capabilities.
+«Python · Open-Source LLMs · Model Evaluation»
 
-🔧 Areas
+Exploring open-source Large Language Models and experimenting with their reasoning and response capabilities across different tasks.
 
-"LLMs" "Prompting" "Model Evaluation" "AI Research"
+✨ Areas of Exploration
+
+- 🧠 LLM reasoning
+- 📝 Prompt-based evaluation
+- 📊 Response analysis
+- 🔬 Model comparison
+- 📚 AI research
+
+Status: "Exploring"
+
+---
+
+🛠️ Technologies
+
+🐍 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>"Machine Learning" • "Neural Networks" • "Deep Learning" • "CNN" • "Computer Vision" • "LLMs"
+
+🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>"Google Colab" (https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+"Streamlit" (https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 📚 Currently Learning
 
-Programming Fundamentals
-        ↓
-Machine Learning
-        ↓
-Neural Networks
-        ↓
-Deep Learning
-        ↓
-CNN & Computer Vision
-        ↓
-Transformers
-        ↓
-Large Language Models
-        ↓
-LLM Applications & Research
+Python & Programming Fundamentals
+            ↓
+     Machine Learning
+            ↓
+     Neural Networks
+            ↓
+      Deep Learning
+            ↓
+  CNN & Computer Vision
+            ↓
+      Transformers
+            ↓
+  Large Language Models
+            ↓
+   LLM Applications
+            ↓
+      AI Research
 
-Alongside AI/ML, I'm also working on:
+Alongside AI/ML, I'm also improving:
 
-- 📌 Data Structures & Algorithms
-- 📌 Java
-- 📌 DBMS
-- 📌 Python
-
----
-
-🎯 My Goals
-
-«Learn → Build → Research → Improve»
-
-My current goal is to develop strong fundamentals in AI/ML, build meaningful projects, explore research opportunities, and eventually work as an AI/ML Engineer.
+"Java" • "DSA" • "DBMS" • "Git/GitHub" • "Problem Solving"
 
 ---
 
-## 🔥 GitHub Streak
+🎯 Goals
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ankit-K-Jha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+Learn the Fundamentals
+        ↓
+Build Real Projects
+        ↓
+Explore AI Research
+        ↓
+Contribute to Open Source
+        ↓
+Become a Strong AI/ML Engineer
+
+My long-term goal is to build a strong foundation in Artificial Intelligence and Machine Learning and work on meaningful problems using intelligent systems.
 
 ---
 
-💡 What I'm Working On
+📊 GitHub Statistics
 
-- 🤖 AI/ML projects
-- 🧠 Deep Learning fundamentals
-- 🔬 AI/ML research
-- 💬 Large Language Models
-- 💻 Data Structures & Algorithms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-K-Jha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-K-Jha&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>---
+
+🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankit-K-Jha&theme=github-dark-blue&hide_border=true" />
+</p>---
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-K-Jha&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>---
+
+📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-K-Jha&theme=github-compact&hide_border=true" />
+</p>---
+
+🔭 Currently Exploring
+
+🤖 Artificial Intelligence
+
+🧠 Deep Learning
+
+💬 Large Language Models
+
+👁️ Computer Vision
+
+🔬 AI/ML Research
+
+💻 Data Structures & Algorithms
+
+🚀 Building Real-World Projects
+
+---
 
 🌐 Connect With Me
 
 <p align="center"><a href="https://github.com/Ankit-K-Jha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Ankit--K--Jha-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/in/ankit-kumar-ojha-04de13d12m">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar%20Ojha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:kumarankit7471234@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-kumarankit7471234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></p>---
 
+✍️ Random Dev Quote
 
-## 💭 Developer Mindset
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+</p>---
 
-> "Learn. Build. Break. Improve. Repeat."
-
-<p align="center">🌱 Learning today. Building tomorrow. 🚀
+<p align="center">🌱 Learning by building. Building to create. 🚀
 
 Thanks for visiting my profile!
 
