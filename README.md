@@ -113,11 +113,11 @@ My current goal is to develop strong fundamentals in AI/ML, build meaningful pro
 
 ---
 
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankit-K-Jha&theme=tokyonight&hide_border=true" />
-</p>---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ankit-K-Jha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
 
 💡 What I'm Working On
 
@@ -126,8 +126,6 @@ My current goal is to develop strong fundamentals in AI/ML, build meaningful pro
 - 🔬 AI/ML research
 - 💬 Large Language Models
 - 💻 Data Structures & Algorithms
-
----
 
 🌐 Connect With Me
 
