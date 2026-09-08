@@ -165,6 +165,16 @@ My current goal is to develop strong fundamentals in AI/ML, build meaningful pro
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+---
+
+📌 Top Repositories
+
+| Repository | Tech Stack | Description |
+| :--- | :--- | :--- |
+| 🐱🐶 **[Cat vs Dog CNN Classifier](https://github.com/Ankit-K-Jha)** | `Python` `TensorFlow` `Streamlit` | Deep learning image classification web application. |
+| 🤖 **[LLM Research & Evaluation](https://github.com/Ankit-K-Jha)** | `Python` `LLMs` `HuggingFace` | Benchmarking open-source models on reasoning tasks. |
+
+
 <p align="center">
   🚀 Debugging today. Deploying tomorrow.
   <br><br>
