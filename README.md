@@ -143,7 +143,7 @@ My current goal is to develop strong fundamentals in AI/ML, build meaningful pro
 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankit-K-Jha&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ankit-K-Jha&theme=tokyonight&hide_border=true&cache_bust=1" />
 </p>---
 
 💡 What I'm Working On
@@ -164,10 +164,10 @@ My current goal is to develop strong fundamentals in AI/ML, build meaningful pro
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">🌱 Learning today. Building tomorrow. 🚀
-
-Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories.
-
+<p align="center">
+  🚀 Debugging today. Deploying tomorrow.
+  <br><br>
+  Thanks for stopping by!
+  <br>
+  ⭐ Feel free to explore my repositories and drop a star if you find something interesting.
 </p>
