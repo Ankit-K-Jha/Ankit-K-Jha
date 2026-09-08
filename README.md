@@ -11,7 +11,7 @@
   <a href="mailto:kumarankit7471234@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>---
+</p>
 
 
 💻 B.Tech CSE Student | AI/ML Enthusiast | Aspiring AI Engineer
@@ -22,7 +22,7 @@ I enjoy understanding concepts from the fundamentals and turning what I learn in
 
 ---
 
-💫 About Me
+# 💫 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Student
 - 🤖 Interested in Artificial Intelligence & Machine Learning
