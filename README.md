@@ -1,4 +1,4 @@
-👋 Hi, I'm Ankit Kumar Jha
+<h1 align="center">👋 Hi, I'm Ankit Kumar Ojha</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Deep+Learning+Explorer;LLM+Learner;Computer+Science+Student;Learning+by+Building" alt="Typing SVG" />
 </p><p align="center">
